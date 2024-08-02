@@ -6,7 +6,7 @@
 <i>No-CORS, no auth API that's publicly available or easily self-hostable</i>
 <br />
 <b>🌐 <a href="https://who-dat.as93.net/">who-dat.as93.net</a></b><br />
-</p>
+</p> 
 
 ---
 
